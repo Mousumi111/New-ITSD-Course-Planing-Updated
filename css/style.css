@@ -1,0 +1,456 @@
+*{
+	margin:0;
+	padding:0
+}
+.design{
+	border: 1px solid rgba(128, 128, 128, 0.41);
+   padding: 13px 10px;
+}
+.design p{}
+.design-1{
+	
+	    padding: 3px 10px;
+    border: 1px solid rgba(128, 128, 128, 0.44);
+    margin-left: -30px;
+    border-left: 0px;
+}
+.design-1 p{}
+.design-2{
+	    padding: 3px 10px;
+    border: 1px solid rgba(128, 128, 128, 0.44);
+    margin-left: -30px;
+    border-left: 0px;
+}
+.design-2 p{}
+.design-3{
+	    padding: 3px 10px;
+    border: 1px solid rgba(128, 128, 128, 0.44);
+    margin-left: -30px;
+    border-left: 0px;
+}
+.design-3 p{}
+.design-4{
+	    padding: 3px 10px;
+    border: 1px solid rgba(128, 128, 128, 0.44);
+    margin-left: -30px;
+    border-left: 0px;
+}
+.design-4 p{}
+.web{
+    border: 1px solid rgba(128, 128, 128, 0.57);
+    padding: 50px 10px;
+    border-top: 0px;
+}
+.web p{}
+.web-1{}
+.web-1 span{}
+.modal_min{
+	margin-left: 25px;
+}
+.modal_min ol{}
+.modal_min ol li{}
+.modal_min ol li{}
+.modal_min ol li a{
+	    text-decoration: none;
+    color: #31708f;
+}
+.design_5{
+	border: 1px solid rgba(128, 128, 128, 0.4);
+    margin-left: -30px;
+    padding: 8px 10px;
+    border-top: 0px;
+    background-image: linear-gradient(to bottom left,rgba(186, 119, 177, 0.53),rgba(129, 118, 181, 0.56));
+    border-left: 0px;
+	border-left: 0px;
+	background-position:center;
+	background-size:cover
+}
+.design_5 span{}
+.web-7{
+	border: 1px solid rgba(128, 128, 128, 0.51);
+    margin-left: -30px;
+    padding: 45px 10px;
+    border-top: 0px;
+    border-left: 0px;
+    border: 1px solid rgba(128, 128, 128, 0.51);
+    margin-left: -30px;
+    padding: 45px 10px;
+    border-top: 0px;
+    border-left: 0px;
+background: linear-gradient(to bottom left,#85cba8,#76c4e2);
+background-position:center
+}
+.web-7 span{}
+.design-9{
+	border: 1px solid rgba(128, 128, 128, 0.29);
+    margin-left: -30px;
+    padding: 8px 10px;
+    border-top: 0px;
+    border-left: 0px;
+    background: linear-gradient(to bottom left,#ffdb6f,#f69259);
+    background-size: cover;
+    background-position: center;
+}
+.design-9 span{    font-size: 12px;}
+.design-10{}
+.design-10 span{}
+.design-11{}
+.design-11 span{}
+.web-9{
+	border: 1px solid gray;
+    margin-left: -30px;
+	background-image: linear-gradient(to right,#e43bdb,rgba(212, 55, 222, 0.45));
+    background-position: center;
+    background-size: cover;
+    padding: 35px 10px;
+    border-top: 0px;
+    border-left: 0px;
+}
+.modal-content{
+    background: #ddd;
+}
+.modal-title{
+	    color: #31708f;
+}
+.modal_min p{
+    color: #31708f;
+    font-size: 18px;
+    margin-left: -15px;
+    margin-top: 5px;
+}
+.web-9 span{}
+.programm{
+    border: 1px solid rgba(128, 128, 128, 0.57);
+	padding: 234px 8px;
+    border-top: 0px;
+}
+#collapseOne{
+	    margin-left: 10px;
+}
+.programm p{    margin-top: -163px;}
+.programm-1{
+    border: 1px solid rgba(128, 128, 128, 0.48);
+    margin-left: -30px;
+    border-left: 0px;
+    border-top: 0px;
+    padding: 10px 3px;
+	background-image: linear-gradient(to left,white,pink);
+}
+.programm-2{
+    border: 1px solid rgba(128, 128, 128, 0.48);
+    margin-left: -30px;
+    border-left: 0px;
+    border-top: 0px;
+	padding: 193px 3px;
+    background: #D9D2E9;
+    border-right: 0px;
+}
+.programm-1 span{}
+.programm-2{}
+.programm-2 span{
+	    position: absolute;
+    margin-top: -168px;
+}
+.programm-3{}
+.programm-3 span{}
+.programm-4{
+	border: 1px solid rgba(128, 128, 128, 0.4);
+    margin-left: -31px;
+    padding: 5px 5px;
+    border-left: 0px;
+    border-top: 0px;
+    background: linear-gradient(to bottom left,#ffdb6f,#f69259);
+    background-size: cover;
+    background-position: center;
+}
+.programm-p{
+    border: 1px solid rgba(128, 128, 128, 0.41);
+    padding: 39px 10px;
+    margin-left: -30px;
+    background-image: linear-gradient(to right,#abd8d1,#f5f5f9);
+    background-position: center;
+    background-size: cover;
+    border-top: 0px;
+}
+.programm-s{}
+.programm-4 span{}
+.programm-0{}
+.programm-0 span{}
+.programm-p{}
+.programm-s{
+	border: 1px solid rgba(128, 128, 128, 0.44);
+    margin-left: -30px;
+    border-left: 0px;
+    border-top: 0px;
+    padding: 5px 4px;
+    background-image: linear-gradient(to left,rgba(139, 195, 74, 0.62),rgba(30, 199, 67, 0.69));
+    background-position: center;
+    background-size: cover;
+}
+.programm-s span{}
+.advance-1{}
+.advance-1 span{}
+.advance-2{}
+.advance-2 span{}
+.advance-3{}
+.advance-3 span{}
+.advance-6{
+	border: 1px solid rgba(128, 128, 128, 0.69);
+    margin-left: -30px;
+    border-left: 0px;
+    border-top: 0px;
+    padding: 71px 10px;
+    background-image: linear-gradient(to right,#FFD966,rgba(247, 210, 108, 0.72));
+    background-position: center;
+    background-size: cover;
+}
+.advance-6 span{}
+.python{}
+.python-1{}
+.python-2{}
+.pythone-22{
+	border: 1px solid rgba(128, 128, 128, 0.38);
+    padding: 10px 10px;
+    margin-top: -308px;
+    margin-left: -30px;
+    border-top: 0px;
+    background: #D9EAD3;
+}
+.pythone-22 span{}
+.pythone-23{
+	border: 1px solid rgba(128, 128, 128, 0.38);
+    padding: 10px 10px;
+    margin-left: -30px;
+    border-top: 0px;
+    background-image: linear-gradient(to right,#6cc0cc,rgb(197, 197, 222));
+    background-position: center;
+    background-size: cover;
+}
+.pythone-33 span{}
+.python-3{
+	border: 1px solid rgba(128, 128, 128, 0.55);
+    margin-top: -305px;
+    margin-left: -30px;
+    padding: 19px 10px;
+    border-top: 0px;
+    border-left: 0px;
+    background: #B6D7A8;
+}
+.python-3 span{}
+.python-4{
+	border: 1px solid rgba(128, 128, 128, 0.69);
+	margin-top: -306px;
+    padding: 9px 10px;
+    margin-left: -31px;
+    border-top: 0px;
+    background-image: linear-gradient(to right,#93c47D,rgba(147, 196, 125, 0.78));
+    background-position: center;
+    background-size: cover;
+    border-left: 0px;
+}
+.python-4 span{}
+.python-5{
+	border: 1px solid rgba(128, 128, 128, 0.69);
+    padding: 10px 10px;
+    margin-left: -31px;
+    border-top: 0px;
+    background-image: linear-gradient(to right,#93c47D,rgba(147, 196, 125, 0.78));
+    background-position: center;
+    background-size: cover;
+    border-left: 0px;
+}
+.python-5 span{}
+.php{}
+.php-1{}
+.php-1:hover{}
+.php-2{}
+.php-2:hover{}
+.php-11{
+	border: 1px solid rgba(128, 128, 128, 0.54);
+    margin-top: -227px;
+    padding: 8px 10px;
+    margin-left: -30px;
+    border-top: 0px;
+background-image: linear-gradient(to bottom left,rgba(186, 119, 177, 0.53),rgba(129, 118, 181, 0.56));
+background-position:center;
+background-size:cover
+}
+.php-11:hover{
+	background:php-11
+}
+.php-11 span{}
+.php-22{
+	border: 1px solid rgba(128, 128, 128, 0.54);
+    padding: 8px 10px;
+    margin-left: -30px;
+    border-top: 0px;
+    background: #C9DAF8;
+}
+.php-22 span{}
+.php-33 {
+	border: 1px solid rgba(128, 128, 128, 0.54);
+    padding: 8px 10px;
+    margin-left: -30px;
+    border-top: 0px;
+    background: #C9DAF8;
+}
+.php-22:hover{
+	background:#C9DAF8
+}
+.php-3  span{}
+.php-4{
+    border: 1px solid rgba(128, 128, 128, 0.42);
+    margin-top: -228px;
+    margin-left: -30px;
+    background-image: linear-gradient(to right,#76A5AF,rgba(118, 165, 175, 0.62));
+    background-position: center;
+    background-size: cover;
+    padding: 30px 5px;
+    border-left: 0px;
+}
+.php-4 span{}
+.wordpress{}
+.wordpress-1{}
+.wordpress-22{
+	border: 1px solid rgba(128, 128, 128, 0.54);
+    padding: 27px 10px;
+    margin-left: -30px;
+background-image: linear-gradient(to bottom left,rgba(186, 119, 177, 0.53),rgba(129, 118, 181, 0.56));
+    margin-top: -77px;
+    border-top: 0px;
+}
+.wordpress-22:hover{
+	background:rgba(243, 84, 84, 0.86);
+}
+.php-3{
+	border: 1px solid rgba(128, 128, 128, 0.46);
+    margin-top: -227px;
+    padding: 65px 10px;
+    margin-left: -30px;
+    border-top: 0px;
+    border-left: 0px;
+    background-image: linear-gradient(to right,#7d94c7,rgba(128, 128, 128, 0.45));
+    background-position: center;
+    background-size: cover;
+}
+.php-3 span{}
+.{}
+.{}
+.{}
+.wordpress-22 span{}
+.wordpress-0{}
+.wordpress-3{}
+.wordpress-33{
+    border: 1px solid rgba(128, 128, 128, 0.51);
+    margin-top: -78px;
+    margin-left: -31px;
+    border-top: 1p;
+    padding: 2px;
+background-image: linear-gradient(to left,rgba(120, 222, 232, 0.75),#87b1d8);
+    background-position: center;
+    background-size: cover;
+}
+.wordpress-33:hover{
+	background:rgba(37, 204, 157, 0.7);
+}
+.wordpress-33 span{}
+.wordpress-44{
+	border: 1px solid rgba(128, 128, 128, 0.51);
+    margin-left: -31px;
+    border-top: 0px;
+    padding: 5px;
+background-image: linear-gradient(to left,rgba(120, 222, 232, 0.75),#87b1d8);
+    background-position: center;
+    background-size: cover;
+}
+.wordpress-44:hover{
+	background:pink
+}
+.wordpress-44 span{}
+.wordpress-4{
+    border: 1px solid rgba(128, 128, 128, 0.49);
+    margin-left: -30px;
+    background-image: linear-gradient(to right,#76A5AF,rgba(118, 165, 175, 0.62));
+    background-position: center;
+    background-size: cover;
+    padding: 52px 5px;
+    margin-top: -127px;
+    border-top: 0px;
+    border-left: 0px;
+}
+.design_5:hover{
+	    background: #eee;
+}
+.web-7:hover{
+	    background: #d9edf7;
+}
+.design-9:hover{
+	background: rgba(147, 196, 125, 0.7);
+}
+.programm-1:hover{
+	    background: rgba(255, 217, 102, 0.56);
+}
+.programm-2:hover{
+	    background: rgba(85, 85, 85, 0.52);
+}
+.programm-2{
+    background: linear-gradient(to bottom left,#76c4e2,#8176b5);
+    background-size: cover;
+    background-position: center;
+}
+.wordpress-4 span{}
+.design{}
+.programm-4:hover{
+	    background: rgba(125, 196, 186, 0.8);
+}
+.pythone-22:hover{
+	background:#e0d6c4;
+}
+.pythone-22{
+	background: linear-gradient(to bottom left,#ffdb6f,#f69259);
+    background-size: cover;
+    background-position: center;
+}
+.php-11:hover{
+	background:rgba(125, 196, 186, 0.8);
+}
+.php-22:hover{
+	background:rgba(202, 202, 75, 0.8);
+}
+.php-22{
+	background-image: linear-gradient(to bottom left,rgba(186, 119, 177, 0.53),rgba(129, 118, 181, 0.56));
+}
+.panel-heading{}
+.panel-heading a{}
+.panel-body ol{
+        margin-left: 33px;
+}
+.panel-body ol li a{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
